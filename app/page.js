@@ -176,6 +176,11 @@ export default function Home() {
                 <li>
                   <a href={`mailto:${site.email}`}>{site.email}</a>
                 </li>
+                <li>
+                  <a href={site.instagram} target="_blank" rel="noopener noreferrer">
+                    Instagram
+                  </a>
+                </li>
               </ul>
               <LogoMark size={88} variant="light" className="cta__mark" />
             </div>

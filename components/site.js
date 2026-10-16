@@ -3,9 +3,8 @@ export const site = {
   name: "JeitinhoAI",
   slogan: "de um jeitinho aí",
   url: "https://jeitinhoai.vercel.app",
-  // TODO: trocar pelo número real (formato internacional, só dígitos)
-  whatsapp: "5511999999999",
-  // TODO: trocar pelo e-mail real
+  // Formato internacional, só dígitos: 55 (Brasil) + 11 (DDD) + número
+  whatsapp: "5511982631798",
   email: "contato@jeitinhoai.com.br",
   instagram: "https://instagram.com/jeitinhoai",
 };
